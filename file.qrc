@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/wordlist.txt</file>
+        <file>resources/unaddedPlugin.txt</file>
+        <file>resources/addedPlugin.txt</file>
+        <file>resources/epmc-standard.jar</file>
+    </qresource>
+</RCC>
